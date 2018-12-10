@@ -1,2 +1,2 @@
 # Tricho01
-Model of Trichodesmiu
+Model of Trichodesmium
