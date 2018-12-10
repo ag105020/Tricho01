@@ -1,0 +1,7 @@
+#DataThief C:\Users\Keisuke\Google Drive\0 Paper\58 Modeling Trichodesmium\Data Plot\Fig6Finzi-Hart2009.PNG Thursday 20-Sep-2018 12:06:02 PM
+0.0134, 1.128e-3
+1.0327, 0.0263
+2.0199, 0.2833
+4.0181, 0.8955
+8.0256, 0.888
+24.0273, 0.2598
